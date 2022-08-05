@@ -20,6 +20,6 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-xiaobai&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/lucky-xiaobai/lucky-xiaobai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucky-xiaobai&show_icons=true&theme=radical" alt="vi0let's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucky-xiaobai&show_icons=true&theme=radical&line_height=27" alt="vi0let's GitHub Stats" />
 </a>
 
