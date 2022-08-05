@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 
 ![vi0let's github stats](https://github-readme-stats.vercel.app/api?username=lucky-xiaobai&show_icons=true&theme=radical)
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucky-xiaobai)](https://github.com/anuraghazra/github-readme-stats)
 
