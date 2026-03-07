@@ -1,15 +1,17 @@
-<h1 align="center">Hi 👋, I'm vi0let</h1>
 <!--
+<h1 align="center">Hi 👋, I'm vi0let</h1>
+
 <p align="center">
 Open Source,Open World
 </p>
--->
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub;Open+Source,Open+World&center=true&size=25">
 </p>
 
 ---
-
+-->
+<!--
 # 👨‍💻 About Me
 
 - 🎓 Computer Science Student
@@ -18,17 +20,18 @@ Open Source,Open World
 - ⚡ Goal: Become a great developer
 
 ---
-
+-->
+<!--
 # 🚀 Tech Stack
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=cpp,python,java,linux,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=c,python,linux,git,github,vscode" />
 
 </p>
 
 ---
-
+-->
 # 📊 GitHub Stats
 
 <p align="center">
@@ -40,7 +43,7 @@ Open Source,Open World
 </p>
 
 ---
-
+<!--
 # 🔥 GitHub Activity Graph
 
 <p align="center">
@@ -50,12 +53,22 @@ Open Source,Open World
 </p>
 
 ---
-
+-->
 # 📈 GitHub Metrics
 
 <p align="center">
 
 <img src="./github-metrics.svg"/>
+
+</p>
+
+---
+
+# 🌸 Visitors
+
+<p align="center">
+
+<img src="https://count.getloli.com/get/@lucky-xiaobai?theme=moebooru">
 
 </p>
 
@@ -70,14 +83,3 @@ Open Source,Open World
 </p>
 
 ---
-
-# 🌟 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=lucky-xiaobai&color=blue">
-
-</p>
-
----
-
