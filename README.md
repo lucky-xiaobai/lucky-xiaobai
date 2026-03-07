@@ -81,8 +81,3 @@ Open Source,Open World
 
 ---
 
-# ⭐️ From Lucky
-
-<p align="center">
-Thanks for visiting my profile!
-</p>
