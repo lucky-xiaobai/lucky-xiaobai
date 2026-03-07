@@ -1,48 +1,88 @@
-# Hi 👋 I'm Lucky
-
-🚀 A developer who loves technology
-
----
-
-## 🧑‍💻 About Me
-
-- 🌱 Learning: Computer Science
-- 💻 Interested in Programming & Open Source
-- ⚡ Fun fact: I love exploring new tech
+<h1 align="center">Hi 👋, I'm vi0let</h1>
+<!--
+<p align="center">
+Open Source,Open World
+</p>
+-->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub;Open+Source,Open+World&center=true&size=25">
+</p>
 
 ---
 
-## 🚀 Tech Stack
+# 👨‍💻 About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📊 GitHub Stats
-
-![Lucky's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucky-xiaobai&show_icons=true&theme=tokyonight)
+- 🎓 Computer Science Student
+- 🌱 Currently learning **Algorithms & Backend Development**
+- 💻 Interested in **Open Source / Software Engineering**
+- ⚡ Goal: Become a great developer
 
 ---
 
-## 🧠 Most Used Languages
+# 🚀 Tech Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-xiaobai&layout=compact&theme=tokyonight)
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=cpp,python,java,linux,git,github,vscode" />
 
-## 🔥 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lucky-xiaobai&theme=tokyo-night)
+</p>
 
 ---
 
-## 🐍 Contribution Snake
+# 📊 GitHub Stats
 
-![snake gif](https://github.com/lucky-xiaobai/lucky-xiaobai/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucky-xiaobai&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-xiaobai&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-⭐️ From [Lucky](https://github.com/lucky-xiaobai)
+# 🔥 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucky-xiaobai&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 📈 GitHub Metrics
+
+<p align="center">
+
+<img src="./github-metrics.svg"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/lucky-xiaobai/lucky-xiaobai/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🌟 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=lucky-xiaobai&color=blue">
+
+</p>
+
+---
+
+# ⭐️ From Lucky
+
+<p align="center">
+Thanks for visiting my profile!
+</p>
